@@ -34,10 +34,16 @@ https://arxiv.org/pdf/2311.11045.pdf orca-2
 
 https://arxiv.org/pdf/2402.14830.pdf orca-math 这三篇似乎是一串。
 
+https://arxiv.org/pdf/2308.06259.pdf
+
+https://arxiv.org/pdf/2403.02502.pdf Trail and error
+
+https://arxiv.org/pdf/2403.07714.pdf stable toolbench，使用 LLM 模拟 api 输出
+
 # Some useful websites
 
-https://random.jiayipan.me/posts/llm-core-papers/ ucb phd candidate blog
+https://random.jiayipan.me/posts/llm-core-papers/ a ucb phd candidate's personal blog
 	
 https://2023.aclweb.org/program/best_papers/ ACL2023 best papers
 
-https://yynnyy.cn/ The personal website of Yining Ye, Tsinghua university
+https://yynnyy.cn/ The personal website of Yining Ye, a master candidate from Tsinghua university
