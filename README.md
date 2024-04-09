@@ -12,8 +12,6 @@ https://arxiv.org/pdf/2310.08560.pdf MemGPT:Towards LLMs as operation systems
 
 https://arxiv.org/pdf/2310.13807.pdf Learn to (learn at test time)
 
-https://arxiv.org/pdf/2402.15960.pdf 资源有限场景下，规划工具使用
-
 https://arxiv.org/pdf/2310.15724.pdf
 
 https://arxiv.org/pdf/2305.18390.pdf
