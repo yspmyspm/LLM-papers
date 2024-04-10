@@ -24,6 +24,10 @@ https://arxiv.org/pdf/1710.03937.pdf
 
 https://arxiv.org/pdf/2104.02395.pdf
 
+https://arxiv.org/pdf/2212.07677.pdf Transformers Learn In-Context by Gradient Descent
+
+https://arxiv.org/pdf/2403.12031.pdf ROUTERBENCH: A Benchmark for Multi-LLM Routing System
+
 https://arxiv.org/pdf/2302.05738.pdf
 
 file:///home/yspm/Downloads/2403.04931.pdf
